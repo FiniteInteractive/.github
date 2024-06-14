@@ -1,7 +1,6 @@
-## Hey, Reverb Studio here 👋
-Noteworthy indie games.
+## Hey, Finite Interactive here 👋
+there's nothing here lol
 
-https://reverbstudio.citverse.net/
 <!--
 
 **Here are some ideas to get you started:**
