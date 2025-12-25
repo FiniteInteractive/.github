@@ -1,2 +1,1 @@
-# Reverb Studio
-Noteworhty indie games
+# Finite Interactive
